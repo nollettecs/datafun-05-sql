@@ -1,11 +1,11 @@
 # datafun-05-sql
-In this weeks project we will use python and SQL to create and manage a database, perform various SQL operations,
+- In this weeks project we will use python and SQL to create and manage a database, perform various SQL operations,
 inlcuding joins, filters, and aggregations
 
 ## Module 5 Repository
 
 ### Steps to create project
-Start a new project in GitHub and clone down into VS Code
+- Start a new project in GitHub and clone down into VS Code
 
 # Import Dependencies
 Import Pandas
@@ -29,12 +29,12 @@ Import logging
 
 # Freeze Dependencies
 
-python3 -m pip freeze > requirements.txt
+- python3 -m pip freeze > requirements.txt
 
 # Push to GitHub
-git add .
-git commit -m "commit message"
-git push origin main
+- git add .
+- git commit -m "commit message"
+- git push origin main
 
 # Gathering a CSV dataset
-I am intially using a csv dataset provided! I will then attempt to create my own csv dataset and rework this project with that information.
+- I am intially using a csv dataset provided! I will then attempt to create my own csv dataset and rework this project with that information.
