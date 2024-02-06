@@ -1,6 +1,12 @@
 # datafun-05-sql
 
 ## Module 5 Repository
+Module 5: We will use python and SQL to create and manage a database, perform various SQL operations,
+inlcuding joins, filters, and aggregations.
+
+Author: Cole Nollette
+Date: 2/6/24
+Title: Datafun-05-sql
 
 ### Steps to create project
 1. Start a new project in GitHub and clone down into VS Code
