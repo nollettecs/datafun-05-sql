@@ -26,16 +26,16 @@ Title: Datafun-05-sql
     Create Authors.csv
     Create Books.csv
 4. Add Cole_sql.py
-    create_tables.sql
-    delete_records.sql
-    insert_records.sql
-    query_aggregation.sql
-    query_filter.sql
-    query_group_by.sql
-    query_join.sql
-    query_join.sql
-    query_sorting.sql
-    update_records.sql
+    - create_tables.sql
+    - delete_records.sql
+    - insert_records.sql
+    - query_aggregation.sql
+    - query_filter.sql
+    - query_group_by.sql
+    - query_join.sql
+    - query_join.sql
+    - query_sorting.sql
+    - update_records.sql
     
 
 # Freeze Dependencies
