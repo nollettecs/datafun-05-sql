@@ -5,7 +5,9 @@ Module 5: We will use python and SQL to create and manage a database, perform va
 inlcuding joins, filters, and aggregations.
 
 Author: Cole Nollette
+
 Date: 2/6/24
+
 Title: Datafun-05-sql
 
 ### Steps to create project
@@ -24,6 +26,17 @@ Title: Datafun-05-sql
     Create Authors.csv
     Create Books.csv
 4. Add Cole_sql.py
+    create_tables.sql
+    delete_records.sql
+    insert_records.sql
+    query_aggregation.sql
+    query_filter.sql
+    query_group_by.sql
+    query_join.sql
+    query_join.sql
+    query_sorting.sql
+    update_records.sql
+    
 
 # Freeze Dependencies
 
@@ -31,9 +44,9 @@ Title: Datafun-05-sql
 
 # Push to GitHub
 
-git add .
-git commit -m "initial commit"
-git push origin main
+- git add .
+- git commit -m "initial commit"
+- git push origin main
 
 # Gathering a CSV dataset
-I am intially using a csv dataset provided! I will then attempt to create my own csv dataset and rework this project with that information.
+- I am intially using a csv dataset provided! I will then attempt to create my own csv dataset and rework this project with that information.
